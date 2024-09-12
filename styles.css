@@ -1,3 +1,4 @@
+/* 基本のリセット */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -5,6 +6,7 @@ body {
     box-sizing: border-box;
 }
 
+/* ヘッダーのスタイル */
 header {
     background-color: #333;
     color: #fff;
@@ -39,6 +41,7 @@ nav ul li a {
     text-decoration: none;
 }
 
+/* メインコンテンツのスタイル */
 main {
     padding: 20px 0;
 }
@@ -52,6 +55,7 @@ section {
     padding: 20px 0;
 }
 
+/* フォームのスタイル */
 form label {
     display: block;
     margin-top: 10px;
@@ -79,6 +83,7 @@ form button:hover {
     background-color: #555;
 }
 
+/* フッターのスタイル */
 footer {
     background-color: #333;
     color: #fff;
